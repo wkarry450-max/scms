@@ -190,6 +190,7 @@ Redis 缓存优化
 <img width="2548" height="1402" alt="image" src="https://github.com/user-attachments/assets/5cbaa8a6-003a-4f95-ac72-e6a0c95039d5" />
 <img width="2548" height="1402" alt="image" src="https://github.com/user-attachments/assets/915d6f2b-620a-4c29-ba74-88ce6eb4cb51" />
 <img width="2548" height="1402" alt="image" src="https://github.com/user-attachments/assets/c0cf8f56-6951-4ba2-a8ef-b13c184d8f92" />
+<img width="2548" height="1402" alt="image" src="https://github.com/user-attachments/assets/1536d27b-9bb9-4098-bbd5-121b3eb6efa1" />
 
 
 
